@@ -1,0 +1,51 @@
+@font-face{
+	font-family: 'BYEKAN'
+	src:url	''('../fonts/BYEKAN.TTF')	
+}
+body{
+	direction: rtl;
+	font-family: BYEKAN; 
+}
+.main-navbar{
+	border-bottom:1px solid #eeeeee;
+}
+
+.navbar-default{
+	background-color:#fff;
+	border-color: rgba(231,231,231,.33);
+	padding: 20px 0;
+}
+.navbar-default  > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color:2px solid #354242;
+background-color: #fff;
+}
+.navbar-nav{
+	padding-top: 5px;
+}
+.navbar-default  > .active > a, .navbar-default .navbar-nav >li>a:hover,.navbar-default .navbar-nav >li>a:focus{
+border-bottom: 2px solid #e74c3c;
+outline: none;
+}
+.navbar{
+	min-height: inherit;
+	margin-bottom: 0;
+}
+.navbar-brand{
+	height: inherit;
+	font-family:BYEKAN;
+	font-weight: 700;
+	padding: 5px;
+	font-size: 42px;
+	margin-top: 5px;
+	color:#000; 
+}
+.navbar-default .navbar-brand {
+	color: #e74c3c;
+}
+.navbar-default .navbar-nav >li>a{
+color: 3354242;	
+font-weight: 600;
+margin: 0,10;
+padding-bottom: 5px;
+font-size: 14px; 
+}
