@@ -1,0 +1,40 @@
+body{
+   direction: rtl;
+   text-align: right
+    
+}
+ul{
+   text-align: center;
+}
+
+ul li{
+   list-style: none;
+   /*float:right;*/
+   display: inline-flex;
+   margin: 5px;
+  
+}
+
+ul li a{
+   text-decoration: none;
+   color:black;
+}
+.classdiv{
+  width:  200px;
+   height: 200px;
+   margin: 20 px auto;
+   padding: 10px;
+   position: relative;
+   float: right;
+   color: chartreuse;
+   background: blue;
+}
+#iddiv{
+   width: 200px;
+   height: 200px;
+   margin: 20 px auto;
+   padding: 10px;
+float: left;
+   color:rosybrown;
+   background-color: chocolate;
+}
