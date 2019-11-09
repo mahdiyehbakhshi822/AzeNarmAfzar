@@ -140,6 +140,16 @@ body{
 	display: inline-block;
 	margin-top: 95px;
 }
+.fa {
+color: #e43c5c;
+}
+#bb{
+ width: 15px;
+ height: 15px;
+}
+#aa{
+  color: #fff;
+}
 .btn-banner i{
 	padding-left: 10px;
 }
@@ -170,7 +180,7 @@ display: inline-block;
   width:100%
 }
 .cta-title{
-  
+  text-align: center;
  margin-right: 425px;
   display: block;
 	font-size: 30px;
@@ -188,6 +198,10 @@ display: inline-block;
 }
 .cta-1 a{
 		color: #fff;
+}
+.page-title h1{
+  text-align: center;
+  
 }
 .line-bottom{
 	width: 100px;
