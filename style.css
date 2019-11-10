@@ -248,3 +248,33 @@ display: inline-block;
   width: 100%;
   margin-top: 20px;
 }
+#portfolio
+{
+    background-color: rgba(236,240,241,0.44);
+}
+.fill-btn
+{
+    margin-bottom:30px;
+}
+.filter
+{
+    background-color: #2C3E50;
+    color:#fff;
+    padding:15px 30px;
+    border-right:1px solid #fff;
+    display: inline-block;
+    position: relative;
+}
+
+.fill-btn .active
+{
+    background-color: #e43c5c;
+}
+.fillimg
+{
+    margin-bottom:30px;
+}
+#images{
+  margin: auto;
+  padding: 0;
+}
