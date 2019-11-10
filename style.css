@@ -181,7 +181,7 @@ display: inline-block;
 }
 .cta-title{
   text-align: center;
- margin-right: 425px;
+ width: 100%;
   display: block;
 	font-size: 30px;
 	color: #fff;
@@ -203,6 +203,11 @@ display: inline-block;
   text-align: center;
   
 }
+.text-center {
+  text-align: center!important;
+  width: 100%;
+  margin: auto;
+}
 .line-bottom{
 	width: 100px;
 	height: 3px;
@@ -222,8 +227,10 @@ display: inline-block;
 	text-align: center;
 	color: #e43c5c;
 	font-size: 30px;
-	margin-right:10px;
-	float: top;
+	margin:auto;
+  float: top;
+  
+  text-align: center;
 	-webkit-transition: all .75s ease;
 	-moz-transition: all .75s ease;
 	-ms-transition: all .75s ease;
@@ -234,4 +241,10 @@ display: inline-block;
 	color: #fff;
 	opacity: 0.7;
 
+}
+.service-text{
+  text-align: center;
+  margin: auto!important;
+  width: 100%;
+  margin-top: 20px;
 }
