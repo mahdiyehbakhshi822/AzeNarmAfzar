@@ -82,7 +82,10 @@ body{
    border-radius: 3px;
    border-bottom:none;
 }
-
+.collapse{
+   display: inline-flex; 
+  text-align: center;
+}
 .navbar .navbar-brand {
   color: #e74c3c; 
   height: inherit;
