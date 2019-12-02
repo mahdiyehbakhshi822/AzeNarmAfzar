@@ -1,0 +1,228 @@
+@font-face {
+	font-family: Shabnam;
+	src: url('font/Shabnam.eot');
+	src: url('font/Shabnam.eot?#iefix') format('embedded-opentype'),
+		 url('font/Shabnam.woff2') format('woff2'),
+		 url('font/Shabnam.woff') format('woff'),
+		 url('font/Shabnam.ttf') format('truetype');
+	font-weight: normal;
+  }
+  
+  @font-face {
+	font-family: Shabnam;
+	src: url('font/Shabnam-Bold.eot');
+   src: url('font/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+		url('font/Shabnam-Bold.woff2') format('woff2'),
+		url('font/Shabnam-Bold.woff') format('woff'),
+		url('font/Shabnam-Bold.ttf') format('truetype');
+   font-weight: bold;
+ }
+ 
+ @font-face {
+   font-family: Shabnam;
+   src: url('font/Shabnam-Thin.eot');
+   src: url('font/Shabnam-Thin.eot?#iefix') format('embedded-opentype'),
+		url('font/Shabnam-Thin.woff2') format('woff2'),
+		url('font/Shabnam-Thin.woff') format('woff'),
+		url('font/Shabnam-Thin.ttf') format('truetype');
+   font-weight: 100;
+ }
+ 
+ @font-face {
+   font-family: Shabnam;
+   src: url('font/Shabnam-Light.eot');
+   src: url('font/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+		url('font/Shabnam-Light.woff2') format('woff2'),
+		url('font/Shabnam-Light.woff') format('woff'),
+		url('font/Shabnam-Light.ttf') format('truetype');
+   font-weight: 300;
+ }
+ 
+ @font-face {
+   font-family: Shabnam;
+   src: url('font/Shabnam-Medium.eot');
+   src: url('font/Shabnam-Medium.eot?#iefix') format('embedded-opentype'),
+   url('font/Shabnam-Medium.woff2') format('woff2'),
+   url('font/Shabnam-Medium.woff') format('woff'),
+   url('font/Shabnam-Medium.ttf') format('truetype');
+ font-weight: 500;
+ }
+*{
+	margin:0;
+	padding:0;
+	direction: rtl;
+	font-family: Shabnam;
+}
+img{width: 100%;}
+.slider{
+	background-size: contain;
+	max-width: 100%;
+}
+.introduction{
+	background: url("../images/wp-back.jpg") no-repeat center center;
+	background-size:cover;
+}
+.main-introduction{
+	position: relative;
+	padding: 20px 20px 0px;
+	width: 80%;
+	margin: 0 auto;
+}
+.introduction-title{
+	position: relative;
+	text-align: center;
+}
+.introduction-title h4{
+	font:normal 25px 'dinar';
+	color:#dfc472;
+}
+.introduction-txt p {
+    font: normal 22px 'YB';
+    color: #fff;
+    text-align: justify;
+    line-height: 30px;
+    padding: 10px 0;
+    word-spacing: -1px;
+    letter-spacing: -0.7px;
+}
+.introduction-img{
+	position: relative;
+}
+.introduction-img img {
+    width: 250px;
+    max-width: 100%;
+    margin-top: 60px;
+    object-fit:  contain;
+   	object-position: center;
+}
+
+.btn-box{
+	position: relative;
+	text-align: center;
+	margin-bottom: 20px;
+	padding:10px;
+}
+.btn-box .btn-cust{
+	background-color: #dfc472;
+	color:#000;
+	font:normal 18px 'YB';
+	padding:10px 20px;
+	border-radius: 30px;
+	margin: 10px auto;
+}
+.service{
+	background: url("../images/wp-service.jpg") no-repeat top center;
+	background-size: cover;
+}
+.title {
+	text-align: center;
+	width: 100%;	
+padding: 30px;
+}
+.title h4{
+	color:#fff;
+	font:bold 24px 'dinar';
+}
+.title .line{
+	border-bottom: 3px solid #ffd451;
+	width: 10%;
+	margin: 0 auto;
+}
+.main-service-title {
+	position: relative;
+    text-align: center;
+    margin: auto;
+}
+.service-title-img {
+    position: relative;
+    display: inline-grid;
+}
+.service-title-img img {
+    object-fit: contain;
+    object-position: right;
+    width: 90px;
+}
+.service-title-tit {
+	position: relative;
+	display: inline-block;
+	margin: 20px 0px 5px 10px;
+}
+.service-title-tit h5{
+	font:normal 20px 'dinar';
+	color: #ffd451;
+	
+}
+.service-title-tit h4{
+	font:normal 24px 'dinar';
+	color: #fff;
+}
+.main-service-txt{
+	padding:5px 20px;
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+.main-service-txt p{
+	color: #fff;
+	line-height: 25px;
+	text-align: justify;
+	font: normal 20px 'YB';
+	word-spacing:-1px;
+	letter-spacing: -0.6px
+}
+.personnel{
+	width: 100%;
+	background: #fff;
+}
+.personnel-icon {
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+.main-personnel{
+	position: relative;
+	margin-top: 75px;
+}
+.personnel-icon img {
+    object-fit: contain;
+    object-position: right;
+    width: 120px;
+}
+.personnel-title {
+	position: relative;
+	display: inline-block;
+	padding:10px;
+}
+.personnel-title span{
+	color: #000;
+	font:500 20px 'YB';
+}
+.personnel-title h2{
+	color: #cfb66c;
+    font: 600 34px 'dinar';
+    margin: 5px 0;
+    padding: 5px;
+}
+.personnel-title h4{
+	color: #6d6d6d;
+    font: 600 28px 'dinar';
+    margin: 0px;
+    padding: 0px;
+}
+.personnal-txt{
+	position: relative;
+	margin-top: 20px;
+}
+.personnal-txt p{
+	position: relative;
+	font: 500 22px 'YB';
+	color: #747474;
+	line-height: 30px;
+	text-align: justify;
+	letter-spacing: -0.6px;
+	word-spacing: -1px;
+	padding-left: 30px;
+}
+.no-padding {
+	padding:0;
+}
