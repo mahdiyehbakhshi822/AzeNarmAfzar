@@ -99,7 +99,8 @@ body{
 }
 
 #saerchid{
-  margin-left: 20px;
+width:100%;
+margin: auto;
 }
 .form-control{
   border-radius: 10px;
@@ -126,7 +127,7 @@ body{
 
 .jumbotron p{
 	line-height: 21px;
-	margin: 0;
+	margin: auto;
 	padding: 0px;
 	font-size: 15px;
 	color: #fff;
