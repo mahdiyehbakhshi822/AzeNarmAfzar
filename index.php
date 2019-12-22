@@ -1,4 +1,7 @@
-   <main>
+
+<?php get_header(); ?>
+
+<main>
                       <div class="clearfix"></div>
    
                       <div id="banner"class="section-padding">
@@ -158,3 +161,4 @@
         </div>
       
   </div></main>
+  <?php get_footer(); ?>
