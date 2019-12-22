@@ -1,3 +1,10 @@
+/*
+Theme Name : نام قالب
+Description : توضیحات قالب
+Version : 1.0
+Author : نام نویسنده
+Author URL : آدرس کامل سایت
+*/
 @font-face {
    font-family: Shabnam;
    src: url('font/Shabnam.eot');
@@ -67,7 +74,7 @@ body{
 	margin-bottom: 0;
 }
 .navbar .navbar-nav .nav-item  a{
-  color: #354240;	
+  color: #487c34;	
   font-weight: 600;
   margin: 0,10;
   padding-bottom: 5px;
@@ -193,7 +200,8 @@ display: inline-block;
 .cta-sub-title{
   text-align: center;
 	font-size: 20px;
-	color: #fff;
+  color: #fff;
+  width: 100%;
 }
 .cta-1 h3{
 	text-align: center;

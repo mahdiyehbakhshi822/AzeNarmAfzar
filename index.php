@@ -1,57 +1,4 @@
-<!Doctype html>
-<html lang="fa"dir="rtl">
-  <head>
-      <title>project for Aza mohandece narm afzar</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/font-awesome.min.css">
-    <!--<link href="css/bootstrap-rtl.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/animate.css">-->
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
-  </head>
-  <body>
-  <header>
-    <div class="container">
-        <div class="row">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top ">
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                          <span class="navbar-toggler-icon"></span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                          <a class="navbar-brand" href="#">لوگوی سایت</a>
-                          <ul class="navbar-nav mr-auto mt-2 mt-lg-0"id="menu">
-                            <li class="nav-item active">
-                              <a class="nav-link" href="#">صفحه اصلی <span class="sr-only">(current)</span></a>
-                            </li>
-                            <li class="nav-item">
-                              <a class="nav-link" href="#">خدمات</a>
-                            </li>
-                            <li class="nav-item">
-                              <a class="nav-link" href="#">نمونه کار</a>
-                            </li>
-                            
-                            <li class="nav-item">
-                              <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">ارتباط با ما</a>
-                            </li>
-                          </ul>
-                          <form class="form-inline my-2 my-lg-0" id="saerchid">
-                            <input class="form-control mr-sm-2" type="search" placeholder="عبارت مورد جست وجو"کنید aria-label="Search" id="txtsearch">
-                            <button class="btn btn-outline my-2 my-sm-0" type="submit"><i class="fa fa-search"></i></button>
-                          
-                          </form>
-                        </div>
-                      </nav>
-        </div>
-    </div>
-    </header>
-    <main>
+   <main>
                       <div class="clearfix"></div>
    
                       <div id="banner"class="section-padding">
@@ -143,20 +90,20 @@
                           <div class="container wow bounceInleft"data-duration="2s" data-delay="1s">
                               <div class="row">
                                         <div class="fillimg mix cat1 cat3 col-md-4 col-xs-12 ">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea1.jpg" class="img-responsive "width="100%">
+                                            <img src="images/fea1.jpg" class="img-responsive "width="100%">
                                         </div>
                                         <div class="fillimg mix cat2  col-md-4 col-xs-12 ">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea3.jpg" class="img-responsive"width="100%">
+                                            <img src="images/fea3.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat1 col-md-4 col-xs-12">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea2.jpg" class="img-responsive"width="100%">
+                                            <img src="images/fea2.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat2 cat3 col-md-4 col-xs-12">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea4.jpg" class="img-responsive"width="100%">
+                                            <img src="images/fea4.jpg" class="img-responsive"width="100%">
                                         </div>
                     
                                         <div class="fillimg mix cat2  col-md-4 col-xs-12">
-                                            <img src="<?php echo get_template_directory_uri(); ?>/<?php echo get_template_directory_uri(); ?>/images/fea6.jpg" class="img-responsive"width="100%">
+                                            <img src="images/fea6.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat2 cat3 col-md-4 col-xs-12">
                                             <img src="images/fea5.jpg" class="img-responsive"width="100%">
@@ -211,57 +158,3 @@
         </div>
       
   </div></main>
-                      <footer>
-                        <div class="container  wow bounceInleft" data-duration="2s" data-delay="1s">
-                          <div class="row text-center">
-                            <div class="order-project col-md-4 col-xs-12">
-                              <header><h3> سفارش پروژه </h3></header>
-                                      <p> برنامه های تحت محیط DotNet : Winforms , WPF , WebForms , MVC , WCF , Windows Mobil 8 Application , ...  </p>
-                                      <p> ما حرفه ای ترین برنامه نویس ها را برای پروژه شما انتخاب کرده ایم که قبل و بعد از پروژه در کنار شما هستند و اطمینان از انجام پروژه را برای شما تامین میکنند.</p>
-                                      <a href=#" target="_blank"> جهت سفارش پروژه کلیک کنید </a>
-                            </div>
-                            <div class="links-section col-md-4 col-xs-12">
-                              <header><h3> لینک های مفید دیگر </h3></header>
-                                      <ul>
-                                  <li><a href="#"  target="_blank">آموزش سئو</a></li>
-                                  <li><a href="#" rel=nofollow target="_blank">قالب رایگان سایت</a></li>
-                                  <li><a href="#" rel=nofollow target="_blank">برنامه نویس</a></li>
-                                  <li><a href="#" rel=nofollow target="_blank">گت ورک - فریلسنر</a></li>
-                                  <li><a href="#"  target="_blank">آموزش داکر ( Docker )</a></li>
-                                  <li><a href="#" rel=nofollow target="_blank">آموزش WPF</a></li>
-                                      </ul>
-                            </div>
-                            <div class="contact-section col-md-4 col-xs-12"><header><h3> تماس با برنامه نویسان </h3></header>
-                              <p> شماره تماس</p>
-                              <p> آدرس</p>
-                              <p> ایمیل : </p>
-                              <div>
-                                  <span>شبکه های اجتماعی </span>
-                                  <a href#" class="rss-link"><i class="icon-rss"></i></a>
-                                  <a rel="Publisher" href="#" class="gplus-link"><i class="fa fa-gplus"></i></a>
-                                  <a href="#" class="linkedin-link"><i class="fa fa-linkedin"></i></a>
-                                  <a href="#" class="facebook-link"><i class="fa fa-facebook"></i></a>
-                                  <a href="#" class="twitter-link"><i class="fa fa-twitter"></i></a>
-                              </div>
-
-                          </div>
-                        </div>
-                        </div>
-                      </footer>
-    
-    
-    
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.slim.min.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/popper.min.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/a/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/a/bootstrap.js"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/js/a/jquery.mixitup.js"></script>
-    <script src ="<?php echo get_template_directory_uri(); ?>/js/a/custom.js"></script>
-    
-     
-  </body>
-</html>
