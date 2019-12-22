@@ -93,23 +93,23 @@
                           <div class="container wow bounceInleft"data-duration="2s" data-delay="1s">
                               <div class="row">
                                         <div class="fillimg mix cat1 cat3 col-md-4 col-xs-12 ">
-                                            <img src="images/fea1.jpg" class="img-responsive "width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea1.jpg" class="img-responsive "width="100%">
                                         </div>
                                         <div class="fillimg mix cat2  col-md-4 col-xs-12 ">
-                                            <img src="images/fea3.jpg" class="img-responsive"width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea3.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat1 col-md-4 col-xs-12">
-                                            <img src="images/fea2.jpg" class="img-responsive"width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea2.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat2 cat3 col-md-4 col-xs-12">
-                                            <img src="images/fea4.jpg" class="img-responsive"width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea4.jpg" class="img-responsive"width="100%">
                                         </div>
                     
                                         <div class="fillimg mix cat2  col-md-4 col-xs-12">
-                                            <img src="images/fea6.jpg" class="img-responsive"width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea6.jpg" class="img-responsive"width="100%">
                                         </div>
                                         <div class="fillimg mix cat2 cat3 col-md-4 col-xs-12">
-                                            <img src="images/fea5.jpg" class="img-responsive"width="100%">
+                                            <img src="<?php echo get_template_directory_uri(); ?>/images/fea5.jpg" class="img-responsive"width="100%">
                                         </div>
                                     </div></div>
                           </div>
