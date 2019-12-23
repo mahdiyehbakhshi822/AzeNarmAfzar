@@ -1,8 +1,5 @@
 
 <?php
-/* 
-Template Name: Archives
-*/
 get_header(); ?>
  
 <div id="primary" class="site-content">
@@ -25,7 +22,7 @@ get_header(); ?>
 </div><!-- .entry-content -->
  
 <?php endwhile; // end of the loop. ?>
- 
+        
 </div><!-- #content -->
 </div><!-- #primary -->
  

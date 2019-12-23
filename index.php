@@ -9,7 +9,7 @@
                             <div class="jumbotron">
                               <h1 class="small bold">نام شرکت</h1>
                               <p class="big">قالب بوت استرپ</p>
-                              <a href="archive.html"class="btn btn-banner"target="_blank">بیشتر<i class="fa fa-send
+                              <a href="#"class="btn btn-banner"target="_blank">بیشتر<i class="fa fa-send
                                 " id="aa"></i></a>
                             </div>
                           </div>
@@ -21,7 +21,7 @@
                             <h1 class="cta-title">به سایت ماخوش آمدید</h1>
                             <p class="cta-sub-title ">قالب بوت استرپ</p>
                           </div>
-                        </div>
+                        </div> 
                       </div>
                         <div id="service" class="section-padding">
                           <div class="container container wow bounceInleft" data-duration="2s" data-delay="1s">
