@@ -40,14 +40,14 @@
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.3.1.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/a/jquery.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/popper.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/a/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/a/bootstrap.js"></script>
-    <script src="js/a/jquery.mixitup.js"></script>
-    <script src ="js/a/custom.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/a/bootstrap.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/a/jquery.mixitup.js"></script>
+    <script src ="<?php echo get_template_directory_uri(); ?>/js/a/custom.js"></script>
     
      
   </body>

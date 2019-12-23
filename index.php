@@ -1,6 +1,5 @@
 
 <?php get_header(); ?>
-
 <main>
                       <div class="clearfix"></div>
    
